@@ -39,7 +39,7 @@ GPA: 3.4 | Grad: MAY 2018
 - AIR ASSAULT BADGE
 - LACROSSE HIGH SCHOOL ALL-AMERICAN (2013)
 
-##Skills
+## Skills
 **Languages:** Java, Python, MySQL, C, C++, HTML, Markdown, Assembly RISC-V, Rust, JavaScript, Structured Text, Ladder Box Diagrams
 
 **Tools:** GitHub, Junit, Visual Studio Code, IntelliJ IDEA, NetBeans, Anaconda, Excel, GIS, WireShark, Pandas, PyTorch, Scikit-Learn, TwinCAT, DataBricks, Inductive Ignition, Programmable Logic Controllers/Sensors

@@ -50,7 +50,6 @@ GPA: 3.4 | Grad: MAY 2018
 ### Corning | Hickory, NC (2024)
 #### **Digital Transformation Intern**
 - Work closely with experienced PLC and SCADA engineers to develop proof of concept for new technologies such as IoT Sensors, SCADA configurations, andvanced analytics and machine learning to collect and analyze real-time data from manufacturing operations.
-- Document project activiites, methodologies, and outcomes, providing clear and comprehensive records of the work performed.
 - Utilize industry 4.0 technologies within a fiber optics manufactyuring plant to prepare solutions to automate data collection in order to create a faster, safer, and more reliables production line.
   
 ### The United States Army | Fort Campbell, KY (2019-2022)
@@ -59,15 +58,12 @@ GPA: 3.4 | Grad: MAY 2018
 - Prioritized, planned, and coordinated training for over 100 personnel within the organization, ensuring seamless logistics for meals, equipment, and reserved land for training requirements.
 
 #### **Department Supervisor (Heavy Weapons Company Platoon Leader)**
-- Spearheaded operations with military radios and satellites, ensuring seamless communication in high-stakes environments.
 - In charge of the health and welfare of 7,000 Afghan Refugees at Fort Pickett, VA during the Humanitarian Mission of Operation Allies Welcome.
-- Maintained and oversaw the in-processing and immigration to the US coordinating with the US Navy, Marines, DHS, and ICE to ensure the safety and ease of naturalization of refugees.
 - Directed and supervised 24 service members, overseeing Heavy Weapons Systems, and managing assets totaling $12 million. Simultaneously led comprehensive planning for all platoon field and physical training initiatives, ensuring precision, efficiency, and mission readiness.
 
 #### **Program Mangager (Battalion Assistant Operations Officer)**
 - Optimized Email Communication: Leveraged a custom distribution list for key correspondence, enhancing efficiency and Impact.
 - Aided in the development and coordination of department-level training and exercises, actively participating in planning and scheduling as required.
-- Ensure healthcare, food, and shelter for 30 days as the senior leader over 1,000 service members at the Joint Readiness Training Center.
 
 ## Projects
 
@@ -75,8 +71,6 @@ GPA: 3.4 | Grad: MAY 2018
   - Collaborated with a team of students to utilize Python, Serenity Framework, and the Discord API
 to create a publicly available bot that provides various weather data such as overview,
 temperatures, and cloud coverage for most cities and towns across the globe
-  - Utilized AI to provide a new random historical weather fact as a response based on a city or town
-inputted by the user
   - Tested connections from local machine to Discord and hosting site to Discord throughout the
 project documenting results to ensure the optimal solution was used
 
@@ -93,8 +87,6 @@ ensure accurate updates to the database
 **3. Intro to Networks 3166 - Socket Programming TCP/UDP (Python)**
   - In this project, I demonstrate how to establish a connection between a client and server utilizing TCP and UDP.
   - Python is used to program the connections while wireshark captures the messages sent and received.
-  - UDP Goal: Send 100 messages to the server demonstrating the instability of a UDP connection
-  - TCP Goal: Send a lower case message to the server and receive the message captitalized back at the client. This demonstrates the stability and 3-way handshake of a TCP connection.
 
 ## Goals and Objectives
 
